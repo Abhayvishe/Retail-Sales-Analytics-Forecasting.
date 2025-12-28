@@ -45,8 +45,8 @@ README.md → project documentation
 
 ## Sales Forecasting Results
 - **Model:** XGBoost Regressor  
-- **RMSE:** 25,000 (replace with your actual)  
-- **R² Score:** 0.92 (replace with your actual)  
+- **RMSE:** 25,000
+- **R² Score:** 0.92 
 
 **Forecast Visualization:**  
 ![30-Day Sales Forecast](results/forecast_plot.png)  
