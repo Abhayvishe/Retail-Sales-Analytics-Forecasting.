@@ -32,7 +32,7 @@ README.md → project documentation
 - XGBoost, scikit-learn, joblib  
 - PyArrow (for fast parquet data handling)
 
----
+--
 
 ## Data Insights (Replace with Your Actual Numbers)
 - **Total transactions:** 1,200,000  
